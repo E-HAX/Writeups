@@ -15,6 +15,8 @@ Welcome to the **EHAX DTU Recruitment CTF Writeups** repository! This repo house
 - [Circus](./docs/Mayank%20Jangid%20Circus%20-%20Mayank%20Jangid.pdf)
 - [Weather](./docs/Rohan%20Singh%20Weather%20-%20rohn.pdf)
 - [Weather](./docs/weather%20-%20Keshav%20Gupta.pdf)
+- [ret2win](./docs/ret2win.pdf)
+- [crackme](./docs/crackme.pdf)
 <!-- - [SAMSUNG SMART FRIDGE](./docs/PREM%20KUMAR%20SAMSUNG%20SMART%20FRIDGE%20-%20prem%20Kumar.pdf) -->
 
 
