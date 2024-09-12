@@ -17,8 +17,9 @@ Welcome to the **EHAX DTU Recruitment CTF Writeups** repository! This repo house
 - [Weather](./docs/weather%20-%20Keshav%20Gupta.pdf)
 - [ret2win](./docs/ret2win.pdf)
 - [crackme](./docs/crackme.pdf)
+- [Samsung Smart Fridge](./docs/Divyansh%20Singh%20Samsung%20Smart%20Fridge%20-%20Divyansh.pdf)
+
 <!-- - [SAMSUNG SMART FRIDGE](./docs/PREM%20KUMAR%20SAMSUNG%20SMART%20FRIDGE%20-%20prem%20Kumar.pdf) -->
 
-
-Happy hacking!  
+Happy hacking!
 **EHAX DTU**
